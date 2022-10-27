@@ -15,7 +15,7 @@ print(f"""
   █████   ██████  ██    ██ ███████    ██      ████   
   ██  ██  ██   ██ ██    ██      ██    ██       ██    
   ██   ██ ██   ██  ██████  ███████    ██       ██   BOT 2.0
-            {cyan} MI INSTAGRAM: d4vid.0day 
+            {cyan} Monkey-hk4 bot 
 {magenta}[+] {blanco}BOT DOXING PERSONAS PERÚ.
 {magenta}[+] {blanco}SOLO SE NECESITA SU NÚMERO DE DNI.
 """)
@@ -56,5 +56,3 @@ decodeit.write(base64.b64decode((k_foto)))
 decodeit.close()
 print(f"{magenta}[#] {blanco}LA FOTO FUE GUARDADA EN LA CARPETA PRINCIPAL :D")
 input("enter para finalizar el programa.")
-
-
